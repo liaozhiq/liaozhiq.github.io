@@ -5,9 +5,9 @@
   <subtitle>我乐意</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://tomotoes.com/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2018-04-26T09:34:21.112Z</updated>
-  <id>http://tomotoes.com/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
     <name>liao zhi qiang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>diyige</title>
-    <link href="http://tomotoes.com//posts/undefined/"/>
-    <id>http://tomotoes.com//posts/undefined/</id>
+    <link href="http://yoursite.com//posts/undefined/"/>
+    <id>http://yoursite.com//posts/undefined/</id>
     <published>2018-04-26T09:34:21.000Z</published>
     <updated>2018-04-26T09:34:21.112Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>随便</title>
-    <link href="http://tomotoes.com//posts/undefined/"/>
-    <id>http://tomotoes.com//posts/undefined/</id>
+    <link href="http://yoursite.com//posts/undefined/"/>
+    <id>http://yoursite.com//posts/undefined/</id>
     <published>2018-04-26T09:25:38.000Z</published>
     <updated>2018-04-26T09:31:42.072Z</updated>
     
@@ -42,14 +42,14 @@
     </summary>
     
     
-      <category term="阿斯蒂芬大师傅" scheme="http://tomotoes.com/tags/%E9%98%BF%E6%96%AF%E8%92%82%E8%8A%AC%E5%A4%A7%E5%B8%88%E5%82%85/"/>
+      <category term="阿斯蒂芬大师傅" scheme="http://yoursite.com/tags/%E9%98%BF%E6%96%AF%E8%92%82%E8%8A%AC%E5%A4%A7%E5%B8%88%E5%82%85/"/>
     
   </entry>
   
   <entry>
     <title>goog.hexo</title>
-    <link href="http://tomotoes.com//posts/4b5b814f/"/>
-    <id>http://tomotoes.com//posts/4b5b814f/</id>
+    <link href="http://yoursite.com//posts/4b5b814f/"/>
+    <id>http://yoursite.com//posts/4b5b814f/</id>
     <published>2018-04-24T10:10:11.000Z</published>
     <updated>2018-04-26T11:49:49.315Z</updated>
     
@@ -62,8 +62,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://tomotoes.com//posts/4a17b156/"/>
-    <id>http://tomotoes.com//posts/4a17b156/</id>
+    <link href="http://yoursite.com//posts/4a17b156/"/>
+    <id>http://yoursite.com//posts/4a17b156/</id>
     <published>2018-04-23T10:25:04.114Z</published>
     <updated>2018-04-26T11:49:49.318Z</updated>
     
@@ -83,8 +83,8 @@
   
   <entry>
     <title>dsd</title>
-    <link href="http://tomotoes.com//posts/undefined/"/>
-    <id>http://tomotoes.com//posts/undefined/</id>
+    <link href="http://yoursite.com//posts/undefined/"/>
+    <id>http://yoursite.com//posts/undefined/</id>
     <published>2018-04-17T06:56:26.000Z</published>
     <updated>2018-04-17T06:56:26.771Z</updated>
     
