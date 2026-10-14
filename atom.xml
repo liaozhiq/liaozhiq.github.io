@@ -6,7 +6,7 @@
   <link href="https://liaozhiq.github.io/atom.xml" rel="self"/>
   
   <link href="https://liaozhiq.github.io/"/>
-  <updated>2018-04-28T08:07:29.000Z</updated>
+  <updated>2026-10-14T08:18:32.000Z</updated>
   <id>https://liaozhiq.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>lua 入门</title>
+    <link href="https://liaozhiq.github.io/posts/449d1367/"/>
+    <id>https://liaozhiq.github.io/posts/449d1367/</id>
+    <published>2026-10-14T08:15:58.000Z</published>
+    <updated>2026-10-14T08:18:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://www.lua.org/">lua</a> 是一个开源的脚本语言，由 Lua 语言开发，Lua 语言的语法和 C 语言很相似。</p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://www.lua.org/&quot;&gt;lua&lt;/a&gt; 是一个开源的脚本语言，由 Lua 语言开发，Lua 语言的语法和 C</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>diyige</title>
