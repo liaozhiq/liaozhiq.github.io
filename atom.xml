@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>我开心</title>
+  
+  <subtitle>我乐意</subtitle>
+  <link href="https://liaozhiq.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://liaozhiq.github.io/"/>
+  <updated>2018-04-28T08:07:29.000Z</updated>
+  <id>https://liaozhiq.github.io/</id>
+  
+  <author>
+    <name>liao zhi qiang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>diyige</title>
+    <link href="https://liaozhiq.github.io/posts/f0d08edd/"/>
+    <id>https://liaozhiq.github.io/posts/f0d08edd/</id>
+    <published>2018-04-26T09:34:21.000Z</published>
+    <updated>2018-04-28T08:07:29.000Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>随笔记</title>
+    <link href="https://liaozhiq.github.io/posts/21762762/"/>
+    <id>https://liaozhiq.github.io/posts/21762762/</id>
+    <published>2018-04-26T09:25:38.000Z</published>
+    <updated>2018-04-28T10:58:05.000Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li>知晓很多道理、却依然过不好，这一生，你总善于安慰别人，但你心里的难过又有谁知道</li><li>行为当所行，止于当所止</li><li>未必想要得到什么，只是想要离开什么</li><li>一种知道自己想要什么，一种是知道自己不想要什么</li><li>大智若愚，智叟不智，愚公不予</li></ol>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;知晓很多道理、却依然过不好，这一生，你总善于安慰别人，但你心里的难过又有谁知道&lt;/li&gt;
+&lt;li&gt;行为当所行，止于当所止&lt;/li&gt;
+&lt;li&gt;未必想要得到什么，只是想要离开什么&lt;/li&gt;
+&lt;li&gt;一种知道自己想要什么，一种是知道自己不想要什么&lt;/li&gt;
+&lt;li&gt;大</summary>
+        
+      
+    
+    
+    
+    
+    <category term="人间失格" scheme="https://liaozhiq.github.io/tags/%E4%BA%BA%E9%97%B4%E5%A4%B1%E6%A0%BC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown 怎么玩</title>
+    <link href="https://liaozhiq.github.io/posts/4b5b814f/"/>
+    <id>https://liaozhiq.github.io/posts/4b5b814f/</id>
+    <published>2018-04-24T10:10:11.000Z</published>
+    <updated>2018-04-28T08:41:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="markdown-怎么玩"><a href="#markdown-怎么玩" class="headerlink" title="markdown 怎么玩"></a>markdown 怎么玩</h1><p><a href="http://tool.oschina.net/markdown/">这是地址</a></p>]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;markdown-怎么玩&quot;&gt;&lt;a href=&quot;#markdown-怎么玩&quot; class=&quot;headerlink&quot; title=&quot;markdown 怎么玩&quot;&gt;&lt;/a&gt;markdown 怎么玩&lt;/h1&gt;&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://liaozhiq.github.io/posts/4a17b156/"/>
+    <id>https://liaozhiq.github.io/posts/4a17b156/</id>
+    <published>2018-04-23T10:25:04.114Z</published>
+    <updated>2018-04-26T11:49:49.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a></p><!--<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html">Deployment</a><br>–&gt;</p>-->]]></content>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>dsdsdfa</title>
+    <link href="https://liaozhiq.github.io/posts/3cd7e80b/"/>
+    <id>https://liaozhiq.github.io/posts/3cd7e80b/</id>
+    <published>2018-04-17T06:56:26.000Z</published>
+    <updated>2018-04-28T08:09:15.000Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>aaa</title>
+    <link href="https://liaozhiq.github.io/posts/f007732d/"/>
+    <id>https://liaozhiq.github.io/posts/f007732d/</id>
+    <published>2018-04-17T06:50:39.000Z</published>
+    <updated>2018-04-28T08:09:02.000Z</updated>
+    
+    
+    
+    
+    
+    <category term="13211" scheme="https://liaozhiq.github.io/tags/13211/"/>
+    
+  </entry>
+  
+</feed>
